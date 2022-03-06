@@ -1,5 +1,5 @@
 
-people = [{'name': 'Anna', 'age': 25, 'gender': 'female'},
+people = [ {'name': 'Anna', 'age': 25, 'gender': 'female'},
     {'name': 'Lena', 'age': 12, 'gender': 'female'},
     {'name': 'Nastya', 'age': 33, 'gender': 'female'},
     {'name': 'Angelina', 'age': 30, 'gender': 'female'},
@@ -28,10 +28,9 @@ people = [{'name': 'Anna', 'age': 25, 'gender': 'female'},
     {'name': 'Evgeniy', 'age': 25, 'gender': 'male'},
     {'name': 'Alex', 'age': 12, 'gender': 'male'},
     {'name': 'Kiril', 'age': 27, 'gender': 'male'},
-    {'name': 'Mihail', 'age': 30, 'gender': 'male'}]
-
+    {'name': 'Mihail', 'age': 30, 'gender': 'male'}
+    ]
 my_dict_length = len (people)
 print(f'Всего людей {my_dict_length}')
 
-
-
+list.count(people)
