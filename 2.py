@@ -1,3 +1,4 @@
+
 people = [{'name': 'Anna', 'age': 25, 'gender': 'female'},
     {'name': 'Lena', 'age': 12, 'gender': 'female'},
     {'name': 'Nastya', 'age': 33, 'gender': 'female'},
@@ -31,4 +32,6 @@ people = [{'name': 'Anna', 'age': 25, 'gender': 'female'},
 
 my_dict_length = len (people)
 print(f'Всего людей {my_dict_length}')
+
+
 
