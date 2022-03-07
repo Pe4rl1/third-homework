@@ -33,4 +33,5 @@ people = [ {'name': 'Anna', 'age': 25, 'gender': 'female'},
 my_dict_length = len (people)
 print(f'Всего людей {my_dict_length}')
 
-list.count(people)
+
+
