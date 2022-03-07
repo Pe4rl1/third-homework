@@ -1,0 +1,1 @@
+katet1 = input()
